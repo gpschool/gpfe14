@@ -1,7 +1,9 @@
 day,date,month,start,end,title,pdf,ipynb,speaker,institution,youtube,abstract
+Friday,18,September,8:30,9:00,**Arrivals**,
+Friday,18,September,9:00,9:15,**Welcome**,,,Neil Lawrence,University of Sheffield
 Friday,18,September,9:15,10:15,**Feature Selection in GP-LVM's**,,,Carl Henrik Ek,KTH Royal Institute of Technology,
 Friday,18,September,10:15,10:30,**Coffee Break**,,,,,
-Friday,18,September,10:30,11:30,**Gaussian processes for audio feature extraction** ,./assets/gp-audio.pdf,Richard E. Turner,University of Cambridge,
+Friday,18,September,10:30,11:30,**Gaussian processes for audio feature extraction**,./assets/gp-audio.pdf,,Richard E. Turner,University of Cambridge,
 Friday,18,September,11:30,12:30,**Feature Learning with Deep GPs** ,./assets/gpss_deepGPs.pdf,,Andreas Damianou,University of Sheffield,
 Friday,18,September,12:30,13:30,**Lunch Break**,,,,,
 Friday,18,September,13:30,14:30,**GP-LVMs as Shape Priors in Segmentation and Tracking**,,,Victor Adrian Prisacariu,University of Oxford,
