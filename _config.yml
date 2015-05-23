@@ -1,0 +1,30 @@
+# Site settings
+title: Gaussian Processes for Feature Extraction, 2014
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Workshop on Gaussian Processes for Feature Extraction, Sheffield, UK.
+baseurl: "/gfe14/" # the subpath of your site, e.g. /blog/
+url: "http://gpss.cc" # the base hostname & protocol for your site
+twitter_username: datascienceshef
+github_username:  SheffieldML
+facebook_page: gaussianprocesssummerschool
+
+youtube:
+  height: 315
+  width: 560
+
+conference:
+  hosts:
+  organizers:
+  - {name: Neil Lawrence, url: "http://inverseprobability.com"}
+  - {name: Zhenwen Dai, url: "http://staffwww.dcs.shef.ac.uk/people/Z.Dai/"}
+  name: Workshop on Gaussian Processes for Feature Extraction
+  location: Sheffield, UK
+  year: 2014
+  month: September
+  dates:
+  - {date: 18, day: Thursday, month: September, year: 2014}
+  
+# Build settings
+markdown: kramdown
+
